@@ -12,6 +12,6 @@ Features
 Screenshots
 ^^^^^^^^^^^
 
-.. image:: video.gif
+.. image:: static/description/video.gif
    :width: 100%
    :alt: Merge duplicate sale order lines with same product
