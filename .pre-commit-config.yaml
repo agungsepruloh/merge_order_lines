@@ -7,6 +7,6 @@ repos:
           - --addons-dir=.
           - --org-name=agungsepruloh
           - --repo-name=merge_order_lines
-          - --branch=14.0
+          - --branch=15.0
           - --if-source-changed
       - id: oca-gen-addons-table
