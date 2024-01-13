@@ -5,9 +5,11 @@ Features
 
 **1. Merge duplicate sale order lines with same product ✅**
 
-**2. Easy to configure ✅**
+**2. Support for Create and Edit sale order ✅**
 
-**3. Easy to use and install ✅**
+**3. Compatible with Community and Enterprise Edition ✅**
+
+**4. No special configuration required, install it, use it. ✅**
 
 Screenshots
 ^^^^^^^^^^^
