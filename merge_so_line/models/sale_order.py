@@ -18,3 +18,8 @@ class SaleOrder(models.Model):
         res = super(SaleOrder, self).create(vals)
         self.merge_duplicate_product_lines(res)
         return res
+    
+    def write(self, vals):
+        res = super(SaleOrder, self).write(vals)
+        self.merge_duplicate_product_lines(self)
+        return res
