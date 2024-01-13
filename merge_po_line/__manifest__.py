@@ -15,7 +15,7 @@
     'website': "https://github.com/agungsepruloh",
     'license': 'LGPL-3',
     'maintainers': ['agungsepruloh'],
-    'category': 'Purchases',
+    'category': 'Purchase',
     'version': '14.0.1.1.0',
 
     # any module necessary for this one to work correctly
